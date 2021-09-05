@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+	text-align: center;
+	color: aqua;
+}
+button{
+	background-color: black;
+	color: white;
+	text-align: center;
+	border-color: aqua;
+	width: 70px;
+}
+input{
+	background-color: black;
+	color: white;
+	text-align: center;
+	border-color: aqua;
+}
